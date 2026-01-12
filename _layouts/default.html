@@ -1,25 +1,93 @@
 <!doctype html>
-<html lang="en" dir="ltr">
+<html lang="{{ site.lang | default: 'cs' }}" dir="ltr">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }}</title>
 
-  <!-- Combined Standard & Open Graph Meta Tags -->
-  <meta name="title" property="og:title" content="{{ page.title }}">
-  <meta name="description" property="og:description" content="{{ page.description }}">
-  <meta property="og:image" content="https://raw.githubusercontent.com/%7B%7B site.github.owner_name }}/{{ site.github.repository_name }}/refs/heads/{{ site.github.source.branch }}{{ page.url }}{{ page.image }}">
+  {%- assign site_title = site.title | default: 'AJOVT 25/26' -%}
+  {%- assign page_title = page.title | default: site_title -%}
+  <title>{{ page_title }}</title>
+
+  {%- comment -%}
+    DESCRIPTION:
+    - page.description (na konkrétní stránce)
+    - jinak site.description (v _config.yml)
+  {%- endcomment -%}
+  {%- assign meta_description = page.description | default: site.description | default: '' -%}
+  {% if meta_description != '' %}
+  <meta name="description" content="{{ meta_description | strip_newlines | escape }}">
+  {% endif %}
+
+  {%- comment -%}
+    CANONICAL / OG URL
+  {%- endcomment -%}
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="{{ site.title | default: page.title }}">
-  <meta name="author" content="Add Your Name/Surname">
 
-  <!-- GitHub Primer CSS (keep it simple; makes it look like GitHub) -->
-  <link rel="stylesheet" href="https://unpkg.com/@primer/css@%5E20.0.0/dist/primer.css" fetchpriority="high">
+  {%- comment -%}
+    OG/Twitter IMAGE LOGIC:
+    1) page.image (např. /assets/img/xxx.jpg)
+    2) site.og_image (globální fallback v _config.yml)
+    3) žádný (když nechceš)
+  {%- endcomment -%}
+  {%- assign og_image = page.image | default: site.og_image -%}
+  {% if og_image %}
+    {%- assign og_image_abs = og_image | absolute_url -%}
+    <meta property="og:image" content="{{ og_image_abs }}">
+    <meta name="twitter:image" content="{{ og_image_abs }}">
+  {% endif %}
+
+  {%- comment -%}
+    OG BASIC
+  {%- endcomment -%}
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site_title }}">
+  <meta property="og:title" content="{{ page_title | escape }}">
+  {% if meta_description != '' %}
+  <meta property="og:description" content="{{ meta_description | strip_newlines | escape }}">
+  {% endif %}
+
+  {%- comment -%}
+    TWITTER BASIC
+  {%- endcomment -%}
+  <meta name="twitter:card" content="{% if og_image %}summary_large_image{% else %}summary{% endif %}">
+  <meta name="twitter:title" content="{{ page_title | escape }}">
+  {% if meta_description != '' %}
+  <meta name="twitter:description" content="{{ meta_description | strip_newlines | escape }}">
+  {% endif %}
+
+  {%- comment -%}
+    CSS:
+    - Primer (GitHub look)
+    - + tvoje vlastní CSS, pokud ho vytvoříš v /assets/css/style.css
+  {%- endcomment -%}
+  <link rel="stylesheet" href="https://unpkg.com/@primer/css@^20.0.0/dist/primer.css" fetchpriority="high">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
 </head>
+
 <body class="markdown-body container-lg mx-auto my-5 p-3">
 
-{{ content }}
+  {%- comment -%}
+    Jednoduchá hlavička – můžeš klidně smazat, pokud nechceš.
+  {%- endcomment -%}
+  <header class="mb-5">
+    <h1 class="h2">{{ site_title }}</h1>
+    {% if site.description %}
+      <p class="color-fg-muted">{{ site.description }}</p>
+    {% endif %}
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer class="mt-6 pt-4 border-top color-fg-muted">
+    <small>
+      © {{ site.time | date: "%Y" }} ·
+      <a href="{{ site.github.repository_url }}">GitHub repo</a>
+    </small>
+  </footer>
 
 </body>
 </html>
