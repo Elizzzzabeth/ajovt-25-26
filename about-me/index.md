@@ -10,6 +10,6 @@
 
 * Outside of design, I find inspiration in traveling, nature trips with friends, animals, and sports. I played tennis 🎾 professionally for seven years, which taught me discipline & persistence. I am naturally creative, constantly creating or thinking about new ideas ~ staying still is not for me.
 
-![photo of me](img/liza.jpg)
+![photo of me](img/elis.jpg)
 
 ## 🎪 Let’s make a little creative chaos together! 🤹🏻‍♀️
