@@ -2,4 +2,4 @@
 
 # ABOUT ME
 
-![liza](image/liza.jpg)
+![liza](img/liza.jpg)
