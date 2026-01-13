@@ -4,4 +4,4 @@
 
 Presentation about me & my work
 
-![introductory slide](1.0.pdf)
+![introductory slide](intro.png)
