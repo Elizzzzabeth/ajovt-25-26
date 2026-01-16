@@ -67,7 +67,7 @@ _"Seeing a paper clip as a letter reminds me that most projects begin with simpl
    - Description: **A type experiment showing how simple objects can become letters.** (64)
    - Alt text: **A letter S made from a bent metal paper clip, shown as a close-up detail on a dark background.** (94)
   
-![A metal paper clip bent into the letter S and used as a drop cap next to body text in a simple layout.](preview-context.png)
+![A letter S made from a bent metal paper clip, shown as a close-up detail on a dark background.](img/preview_1.png)
 
  * Variant 2
 
@@ -75,7 +75,7 @@ _"Seeing a paper clip as a letter reminds me that most projects begin with simpl
    - Description: **A type experiment where simple objects become letters.** (54)
    - Alt text: **A metal paper clip bent into the letter S and used as a drop cap next to body text in a simple layout.** (102)
   
-![A metal paper clip bent into the letter S and used as a drop cap next to body text in a simple layout.](preview-context.png)
+![A metal paper clip bent into the letter S and used as a drop cap next to body text in a simple layout.](img/preview-context.png)
 
  * Variant 3
 
