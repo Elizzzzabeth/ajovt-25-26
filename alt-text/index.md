@@ -7,6 +7,7 @@ image: /A metal paper clip bent into the letter S and used as a drop cap next to
 
 [english-for-designers](../README.md)
 
+
 # ALT TEXT 💡
 
 This project grew from noticing small things I usually overlook. 👀
@@ -82,6 +83,8 @@ _"Seeing a paper clip as a letter reminds me that most projects begin with simpl
    - Title: **Small hooks in type design** (26)
    - Description: **This letterform shows how small tools support clear design through simple form.** (79)
    - Alt text: **A sculptural letter S made from a bent paper clip, set into flowing white text on a dark background.** (100)
+  
+![A sculptural letter S made from a bent paper clip, set into flowing white text on a dark background.](img/preview_3.png)
   
 
 ### 🫟 CONCLUSION
