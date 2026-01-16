@@ -5,7 +5,7 @@ description: A type experiment showing how simple objects can become letters.
 image: /A metal paper clip bent into the letter S and used as a drop cap next to body text in a simple layout./img/preview-context.png
 ---
 
-[english-for-designers](../README.md)
+[english-for-designers](/ajovt-25-26/)
 
 
 # ALT TEXT 💡
