@@ -1,3 +1,10 @@
+---
+layout: default
+title: Seeing letters in everyday objects
+description: This type specimen shows how reuse and close attention can shape letters and ideas.
+image: /alt-text/img/preview-context.png
+---
+
 [english-for-designers](../README.md)
 
 # ALT TEXT 💡
