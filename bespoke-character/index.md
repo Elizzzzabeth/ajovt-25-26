@@ -12,7 +12,7 @@ At that period of time I was dealing with a large amount of documentation & pape
 
 I took individual paper clip and carefully deformed it, one by one 📎, searching for a clear and readable letterform. I tested several variations, but the letter **S** felt the most successful ~ mainly because the original curved shape of the paper clip already carries a similar flow. Rather than forcing the material, I allowed its existing logic to guide the outcome.
 
-![Variations of shaped wires](img/)
+![Variations of shaped wires](img/letters.png)
 
 #### Result
 
