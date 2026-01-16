@@ -18,7 +18,7 @@ I took individual paper clip and carefully deformed it, one by one 📎, searchi
 
 The final form feels a bit futuristic, resembling an industrial, wire-based typeface or a contemporary techno sans-serif. It is clean, maybe slightly mechanical, but still handmade.👐🏻
 
-![Metal S-shaped wire](img/s-wire.jpg)
+![Metal S-shaped wire](img/S.png)
 
 #### Conclusion
 
