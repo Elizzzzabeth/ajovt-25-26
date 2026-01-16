@@ -1,13 +1,17 @@
 ---
 layout: default
 title: Seeing letters in everyday objects
-description: This type specimen shows how reuse and close attention can shape letters and ideas.
+description: A type experiment showing how simple objects can become letters.
 image: /alt-text/img/preview-context.png
 ---
 
 [english-for-designers](../README.md)
 
 # ALT TEXT 💡
+
+This project grew from noticing small things I usually overlook. 👀
+By slowing down and working with what was already around me, I began to see how ordinary objects can hold unexpected potential.
+
 
 ##### 2 descriptions without AI (mine):
    * Metal paper clip bent into the letter S form. (44)
@@ -34,6 +38,8 @@ image: /alt-text/img/preview-context.png
    * An ordinary, silver metalic wire clip shaped as a letter S, can be used as an universal hook on an everyday base.
    * An ordinary, silver wire clip shaped as a letter S, can be used as an universal hook on an everyday base.
 
+#### Written content:
 
+_"Seeing a paper clip as a letter reminds me that most projects begin with simple attention to what is surrounds us, and that inspiration often appears when we choose to see ordinary things differently. Even such a small object as a clip shaped into a hook can hold notes together, organize cables, hang lightweight objects or offer temporary repair, proving that modest tools can also solve real problems through their flexibility and simplicity."_
 
 A simple S-shaped hook made from thin, polished silver metal wire, designed for versatile everyday use. It can be used to hang kitchen utensils, towels, plants, or lightweight accessories on rails, shelves, or rods. Thanks to its minimalist form and neutral finish, the hook fits naturally into kitchens, bathrooms, workshops, or modern interiors, offering a practical hanging solution without visual clutter.
