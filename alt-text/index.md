@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seeing letters in everyday objects
+title: Seeing Letters In Everyday Objects
 description: A type experiment showing how simple objects can become letters.
 image: /alt-text/img/preview-context.png
 ---
@@ -38,7 +38,17 @@ By slowing down and working with what was already around me, I began to see how 
    * An ordinary, silver metalic wire clip shaped as a letter S, can be used as an universal hook on an everyday base.
    * An ordinary, silver wire clip shaped as a letter S, can be used as an universal hook on an everyday base.
 
-#### Written content:
+##### Metadata:
+
+   * Title: **Seeing Letters In Everyday Objects** (33)
+   * Description: **A type experiment showing how simple objects can become letters.** (64)
+   * Alt Text: **Letter S made from a paper clip appears as a drop cap beside white body text on a dark background.** (98)
+
+##### Type specimen:
+
+![Letter S made from a paper clip appears as a drop cap beside white body text on a dark background.](img/S_alt.png)
+
+##### Written content:
 
 _"Seeing a paper clip as a letter reminds me that most projects begin with simple attention to what is surrounds us, and that inspiration often appears when we choose to see ordinary things differently. Even such a small object as a clip shaped into a hook can hold notes together, organize cables, hang lightweight objects or offer temporary repair, proving that modest tools can also solve real problems through their flexibility and simplicity."_
 
