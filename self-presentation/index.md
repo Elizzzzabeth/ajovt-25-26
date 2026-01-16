@@ -1,7 +1,7 @@
-[english-for-designers](../README.md)
+[english-for-designers](/ajovt-25-26/)
 
 # 🧝🏻‍♀️ (s)ELF PRESENTATION
 
 Presentation about me & my work
 
-![introductory slide](intro.png)
+![introductory slide](img/intro.png)
