@@ -38,6 +38,8 @@ By slowing down and working with what was already around me, I began to see how 
    * An ordinary, silver metalic wire clip shaped as a letter S, can be used as an universal hook on an everyday base.
    * An ordinary, silver wire clip shaped as a letter S, can be used as an universal hook on an everyday base.
 
+![A thin silver metal wire bent into the shape of the letter S, combining industrial material with typographic design.](img/S.png)
+
 ##### Metadata:
 
    * Title: **Seeing Letters In Everyday Objects** (33)
