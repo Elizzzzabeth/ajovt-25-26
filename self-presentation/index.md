@@ -1,8 +1,6 @@
-[english-for-designers](/ajovt-25-26/)
+[< back to main page](/ajovt-25-26/)
 
 # 🧝🏻‍♀️ (s)ELF PRESENTATION
-
-Presentation about me & my work
 
 ![Introductory slide](img/intro.png)
 
@@ -10,7 +8,7 @@ Presentation about me & my work
 ![First project - propaganda poster](img/propaganda.png)
 
 
-![Second project - Frankfurt book festival visual identity](img/25.pdf)
+![Second project - Frankfurt book festival visual identity](img/frankfurt.png)
 
 
 ![Second project - Frankfurt book festival visual identity](img/fbbf.png)
@@ -22,4 +20,4 @@ Presentation about me & my work
 ![Third project - exhibition poster](img/process_rubik.png)
 
 
-![Contact me](img/29.pdf)
+![Contact me](img/contact.png)
