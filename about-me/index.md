@@ -1,4 +1,4 @@
-[english-for-designers](/ajovt-25-26/)
+[< back to main page](/ajovt-25-26/)
 
 # ABOUT ME 🐣
 
