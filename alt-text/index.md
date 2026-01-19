@@ -91,5 +91,4 @@ _"Seeing a paper clip as a letter reminds me that most projects begin with simpl
 
 Through this assignment, I began to see text as an active design tool. Working with alt text and descriptions shifted my focus toward accessibility and showed me how language shapes digital experiences beyond visual form. 🎨
 
-[Process of creating my bespoke character.](/bespoke-character/)
-[Bespoke character](bespoke-character)
+[Process of creating my bespoke character.](/ajovt-25-26/bespoke-character/)
