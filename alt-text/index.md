@@ -5,7 +5,7 @@ description: A type experiment showing how simple objects can become letters.
 image: /A metal paper clip bent into the letter S and used as a drop cap next to body text in a simple layout./img/preview-context.png
 ---
 
-[english-for-designers](/ajovt-25-26/)
+[< back to main page](/ajovt-25-26/)
 
 
 # ALT TEXT 💡
@@ -91,4 +91,4 @@ _"Seeing a paper clip as a letter reminds me that most projects begin with simpl
 
 Through this assignment, I began to see text as an active design tool. Working with alt text and descriptions shifted my focus toward accessibility and showed me how language shapes digital experiences beyond visual form. 🎨
 
-[Process of creating my bespoke character.](/ajovt-25-26/bespoke-character/)
+[Process of creating my bespoke character here](/ajovt-25-26/bespoke-character/)👈
