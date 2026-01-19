@@ -23,3 +23,5 @@ The final form feels a bit futuristic, resembling an industrial, wire-based type
 #### Conclusion
 
 At first glance the result might seem simple. However, I found that working with a predefined object or shape is more challenging than starting from nothing. Discovering new meaning in an random tool requires observation, patience, and a willingness to see beyond its intended function. 😌 Also it was kinda relaxing, so i would reccomend!
+
+[Alt text assignment.](/ajovt-25-26/alt-text/)
