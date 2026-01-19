@@ -4,6 +4,7 @@
 
 ![Introductory slide](img/intro.png)
 
+![Who am i?](img/who-am-i.png)
 
 ![First project - propaganda poster](img/propaganda.png)
 
@@ -21,3 +22,5 @@
 
 
 ![Contact me](img/contact.png)
+
+[A little bit more about me](/ajovt-25-26/about-me/)👈
