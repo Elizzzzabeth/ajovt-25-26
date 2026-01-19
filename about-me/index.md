@@ -12,4 +12,6 @@
 
 ![photo of me](img/elis.jpg)
 
-## 🎪 Let’s make a little creative chaos together! 🤹🏻‍♀️
+# 🎪 Let’s make a creative chaos together! 🤹🏻‍♀️
+
+[Want to see more? Here you go](/ajovt-25-26/self-presentation/)👈
