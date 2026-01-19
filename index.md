@@ -4,5 +4,3 @@ title: Home
 ---
 
 {% include_relative README.md %}
-
-##### _✨Welcome!✨_
