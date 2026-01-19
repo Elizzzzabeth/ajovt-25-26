@@ -10,6 +10,6 @@ This page offers a brief introduction to who I am, shows some of my work & a lit
 ## Homework 🤓
 - [Bespoke character](bespoke-character)
 - [Alt Text](alt-text)
-- [Handshake](handshake)
-- [Business card](business-card)
 - [Self Presentation](self-presentation)
+- [Business card](business-card)
+- [Handshake](handshake)
