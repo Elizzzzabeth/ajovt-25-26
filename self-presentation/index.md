@@ -1,3 +1,8 @@
+---
+layout: default
+title: 🧝🏻‍♀️ (s)ELF PRESENTATION
+---
+
 [< back to main page](/ajovt-25-26/)
 
 # 🧝🏻‍♀️ (s)ELF PRESENTATION
