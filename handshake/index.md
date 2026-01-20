@@ -23,3 +23,5 @@ Currently open to collaborations, commissions, and unusual problems. Bonus point
 ### Final version
 
 **- Hi, I’m Elizabeth. 👋 As a multidisciplinary artist, I work across multiple media and formats, always ready to explore different tools 🛠️ and visual languages to shape relevant outcomes for each project. 💎 I’m especially drawn to concepts driven by experimentation rather than rules ~ bonus points if glue sticks are involved. Let’s make a magic together! 🔮**
+
+[Want to know more about me? Click here](/ajovt-25-26/about-me/)👈
