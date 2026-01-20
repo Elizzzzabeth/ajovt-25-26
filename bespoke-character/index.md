@@ -1,3 +1,8 @@
+---
+layout: default
+title: BESPOKE CHARACTER
+---
+
 [< back to main page](/ajovt-25-26/)
 
 # Process of creating my BESPOKE CHARACTER
