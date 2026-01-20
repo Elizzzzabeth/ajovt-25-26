@@ -1,3 +1,8 @@
+---
+layout: default
+title: ABOUT ME 🐣
+---
+
 [< back to main page](/ajovt-25-26/)
 
 # ABOUT ME 🐣
