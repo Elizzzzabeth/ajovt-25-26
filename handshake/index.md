@@ -1,3 +1,8 @@
+---
+layout: default
+title: HANDSHAKE 🤝
+---
+
 [< back to main page](/ajovt-25-26/)
 
 # HANDSHAKE 🤝
