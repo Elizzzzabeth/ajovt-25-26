@@ -1,3 +1,8 @@
+---
+layout: default
+title: BUSINESS CARD 🎀
+---
+
 [< back to main page](/ajovt-25-26/)
 
 # BUSINESS CARD 🎀
