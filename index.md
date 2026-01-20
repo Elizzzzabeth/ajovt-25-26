@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Home 💒
 ---
 
 {% include_relative README.md %}
