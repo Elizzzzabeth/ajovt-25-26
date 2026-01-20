@@ -2,6 +2,8 @@
 
 # ABOUT ME 🐣
 
+###### Hi, I’m Elizabeth. 👋 As a multidisciplinary artist, I work across multiple media and formats, always ready to explore different tools 🛠️ and visual languages to shape relevant outcomes for each project. 💎 I’m especially drawn to concepts driven by experimentation rather than rules ~ bonus points if glue sticks are involved. Let’s make a magic together! 🔮
+
 * I am a **multidisciplinary designer** with a deep love for visual experimentation and creative craft. My journey began with drawing and slowly grew through photography, typography, illustration, motion, and mixed media. Creating has always been my natural language ~ a way to explore, understand, and express the world around me. 👀
 
 * I studied at a multimedia high school, where I discovered the beauty of combining different disciplines. Typography taught me sensitivity to detail, mixed media encouraged curiosity and playfulness with materials, 🎥 filmmaking opened the door to motion and storytelling, etc. All these experiences shaped my way of thinking and allow me to move freely between different mediums today.
