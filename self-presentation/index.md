@@ -59,5 +59,5 @@ If you like my work, as I mentioned earlier, I’m open to new experiences, inte
 
 [A little bit more about me](/ajovt-25-26/about-me/)👈
 
-[My whole self-presentation in PDF here](./Elizzzabeth_self_presentation.pdf)👈
+[My whole self-presentation in PDF here](./presentation_slides_compressed.pdf)👈
 
