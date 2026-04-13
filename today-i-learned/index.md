@@ -1,3 +1,9 @@
+---
+layout: default
+title: TODAY I LEARNED 🤓
+---
+
+[< back to main page](/ajovt-25-26/)
 
 ###### these are my notes for the practice Today I Learned. I think almost everyone can relate to this topic, so I also kinda tried to come up with a conclusion that might help address the problem in some way ;)
 
