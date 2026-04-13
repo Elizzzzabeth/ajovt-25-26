@@ -17,7 +17,7 @@ title: ABOUT ME 🐣
 
 * Outside of design, I find inspiration in traveling, nature trips with friends, animals, and sports. I played tennis 🎾 professionally for seven years, which taught me discipline & persistence. I am naturally creative, constantly creating or thinking about new ideas ~ staying still is not for me.
 
-![photo of me](img/elis.jpg)
+![Portrait of a girl with blonde hair in a messy bun, wearing a black top, photographed at night with flash while looking into the camera.](img/elis.jpg)
 
 # 🎪 Let’s make a creative chaos together! 🤹🏻‍♀️
 
