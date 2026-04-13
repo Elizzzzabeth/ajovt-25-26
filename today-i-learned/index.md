@@ -5,7 +5,7 @@ title: TODAY I LEARNED 🤓
 
 [< back to main page](/ajovt-25-26/)
 
-###### these are my notes for the practice Today I Learned. I think almost everyone can relate to this topic, so I also kinda tried to come up with a conclusion that might help address the problem in some way ;)
+###### * these are my notes for the practice Today I Learned. I think almost everyone can relate to this topic, so I also kinda tried to come up with a conclusion that might help address the problem in some way ;)
 
 the title is ..
 ## How to Ruin Your Day Before Breakfast 🫠
