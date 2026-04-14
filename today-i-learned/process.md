@@ -58,5 +58,5 @@ At its core, this is about my struggle with concentration. I often find myself d
 
 That is why I decided to start working on it myself. Not having TikTok is not the only solution when Instagram and Reels still exist. Lately, I have been genuinely trying to address this, because fast videos and the constant overload of information from all directions clearly affect the way we think. Even though I still have moments when I get stuck on social media, I try to minimize it especially in the morning.
 
-Based on this, I decided that my talk would move in this direction. So, if this topic interests you, you can watch it here:
+Based on this, I decided that my talk would move in this direction. So, if this topic interests you, you can watch it here: [Today I Learned ~ talk 🧐](/ajovt-25-26/today-i-learned/index.md)
 
