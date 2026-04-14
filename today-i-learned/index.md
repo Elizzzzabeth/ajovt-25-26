@@ -180,3 +180,7 @@ before it has even had time to become your own.
 And maybe one way to make the day easier
 
 is to protect that first moment a little more <3
+
+#
+
+If you are interested in how I came to this topic and why I wanted to share it, look here: [🛠️](/ajovt-25-26/today-i-learned/process.md)
