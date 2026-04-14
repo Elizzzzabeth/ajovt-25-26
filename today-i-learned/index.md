@@ -183,4 +183,4 @@ is to protect that first moment a little more <3
 
 #
 
-If you are interested in how I came to this topic and why I wanted to share it, look here: [The main idea for a talk 🛠️](/ajovt-25-26/today-i-learned/process.md)
+If you are interested in how I came to this topic and why I wanted to share it, look here: [The main idea for a talk 🛠️](/ajovt-25-26/today-i-learned/process.md/)
