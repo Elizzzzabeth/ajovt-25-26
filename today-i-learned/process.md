@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Process of a TIL 🎀
+title: Process of a TIL ⚙️
 ---
 
 [< back to main page](/ajovt-25-26/)
