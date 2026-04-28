@@ -74,6 +74,10 @@ The answer was not only the exhibitions ~ it was the place itself. The name Kote
 
 The logo became the first and most important step. My intention was not to replace it completely, but to refine and modernize it.
 
+<p align="center">
+  <img src="/case-study/img/logo_GK.png" width="35%">
+</p>
+
 ###### *What I changed:*
 
 - simplified the original symbol / brandmark
@@ -81,6 +85,10 @@ The logo became the first and most important step. My intention was not to repla
 - preserved the recognizable overall form
 - improved clarity and scalability
 - updated the wordmark typography to feel cleaner and more breathable
+
+  <p align="center">
+  <img src="/case-study/img/logo_redesign_GK.png" width="125%">
+</p>
   
 ###### *Result:*
 
