@@ -14,3 +14,4 @@ This page offers a brief introduction to who I am, shows some work of mine & [a 
 - [HANDSHAKE](handshake)
 ###### summer semester:
 - [TODAY I LEARNED](today-i-learned)
+- [CASE STUDY](case-study)
