@@ -24,6 +24,13 @@ Although Galerie Kotelna has a strong name and active cultural presence, its cur
 
 The gallery is housed in a former boiler room (“Kotelna”), a raw industrial environment with spacious interiors and recognizable architectural details. However, the existing branding and website did not fully communicate that atmosphere.
 
+<div align="center">
+  <video width="700" autoplay muted loop playsinline>
+    <source src="/case study/video/web_GK (kopie).mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ###### *So my personal challenge was clear:*
 
 - modernize the brand without erasing recognition
