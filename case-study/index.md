@@ -17,19 +17,14 @@ This project became my first deeper introduction to UX/UI thinking, responsive d
 
 Although Galerie Kotelna has a strong name and active cultural presence, its current visual outputs felt outdated and visually disconnected from the character of the space itself.
 
-<p align="center">
-  <img src="/case-study/img/galerie_kotelna_exterier.jpeg" width="45%">
-  <img src="/case-study/img/galerie_kotelna_interier.jpeg" width="45%">
-</p>
-
-The gallery is housed in a former boiler room (“Kotelna”), a raw industrial environment with spacious interiors and recognizable architectural details. However, the existing branding and website did not fully communicate that atmosphere.
-
 <div align="center">
   <video width="500" controls autoplay muted loop playsinline>
     <source src="/case-study/video/web_GK.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
+
+The gallery is housed in a former boiler room (“Kotelna”), a raw industrial environment with spacious interiors and recognizable architectural details. However, the existing branding and website did not fully communicate that atmosphere.
 
 ###### *So my personal challenge was clear:*
 
@@ -61,6 +56,11 @@ I worked independently on the project from concept to execution.
 Before designing, I looked at the gallery’s current outputs and asked one central question: What makes Galerie Kotelna unique?
 
 The answer was not only the exhibitions ~ it was the place itself. The name Kotelna references the building’s industrial past. The architecture contains metallic elements, pipe structures, large open rooms, and a raw atmosphere that feels unlike a traditional gallery. This insight shaped the direction of the redesign.
+
+<p align="center">
+  <img src="/case-study/img/galerie_kotelna_exterier.jpeg" width="45%">
+  <img src="/case-study/img/galerie_kotelna_interier.jpeg" width="45%">
+</p>
 
 ###### *Instead of creating something generic and polished, I wanted the identity to feel:*
 
