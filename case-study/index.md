@@ -17,9 +17,14 @@ This project became my first deeper introduction to UX/UI thinking, responsive d
 
 Although Galerie Kotelna has a strong name and active cultural presence, its current visual outputs felt outdated and visually disconnected from the character of the space itself.
 
+<p align="center">
+  <img src="/case-study/img/galerie_kotelna_exterier.jpeg" width="45%" height="350">
+  <img src="/case-study/img/galerie_kotelna_interier.jpeg" width="45%" height="350">
+</p>
+
 The gallery is housed in a former boiler room (“Kotelna”), a raw industrial environment with spacious interiors and recognizable architectural details. However, the existing branding and website did not fully communicate that atmosphere.
 
-###### *My personal challenge was clear:*
+###### *So my personal challenge was clear:*
 
 - modernize the brand without erasing recognition
 - preserve the essence of the original identity (logo)
