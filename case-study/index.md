@@ -8,14 +8,12 @@ title: CASE STUDY ~ GALERIE KOTELNA 🖼️
 # CASE STUDY ~ GALERIE KOTELNA 🖼️
 ###### * Rebranding visual identity, website concept and mobile app design for an art gallery
 
-### Overview
+## Overview
 
 Galerie Kotelna is an existing art gallery located in Říčany near Prague. The project began as an exploration of how an established cultural institution could feel more relevant, accessible, and visually engaging for a younger contemporary audience without losing its identity. My goal was to modernize the gallery’s visual communication and extend the refreshed identity into digital platforms ~ first through a redesigned landing page and later through a mobile app concept focused on discovering and purchasing art online.
 This project became my first deeper introduction to UX/UI thinking, responsive design systems, and interactive prototyping.
 
-#
-
-### The Challenge
+## The Challenge
 
 Although Galerie Kotelna has a strong name and active cultural presence, its current visual outputs felt outdated and visually disconnected from the character of the space itself.
 
@@ -29,9 +27,7 @@ The gallery is housed in a former boiler room (“Kotelna”), a raw industrial 
 - attract younger audiences
 - translate a physical cultural space into a strong online experience
 
-#
-
-### My Role
+## My Role
 
 I worked independently on the project from concept to execution.
 
@@ -48,9 +44,7 @@ I worked independently on the project from concept to execution.
 - user testing
 - presentation of final concept
 
-#
-
-### Research & Insight
+## Research & Insight
 
 Before designing, I looked at the gallery’s current outputs and asked one central question: What makes Galerie Kotelna unique?
 
@@ -64,9 +58,7 @@ The answer was not only the exhibitions ~ it was the place itself. The name Kote
 - structured, but expressive
 - inspired by the industrial space itself
 
-#
-
-### Logo Redesign
+## Logo Redesign
 
 The logo became the first and most important step. My intention was not to replace it completely, but to refine and modernize it.
 
@@ -82,13 +74,11 @@ The logo became the first and most important step. My intention was not to repla
 
 The new logo keeps continuity with the original identity while feeling fresher, sharper, and more functional across print and digital media.
 
-#
-
-### Visual Identity System
+## Visual Identity System
 
 To support the refreshed logo, I created a simple visual system.
 
-#### Color Palette
+### Color Palette
 
 I intentionally preserved the gallery’s **strong pink-red tone**, as it already carried recognition and personality 
 
@@ -100,7 +90,7 @@ I intentionally preserved the gallery’s **strong pink-red tone**, as it alread
   
 This allowed artworks themselves to remain visually dominant while the brand color acted as a memorable accent.
 
-#### Typography
+### Typography
 
 I selected bold, legible typography with strong hierarchy and contemporary energy.
 
@@ -112,9 +102,7 @@ I selected bold, legible typography with strong hierarchy and contemporary energ
 - promotional graphics
 - digital interfaces
 
-#
-
-### Website Concept (first round)
+## Website Concept (first round)
 
 The first phase focused on redesigning the homepage / landing page. I wanted the website to immediately feel different from the existing version ~ something visually confident, memorable, and energetic. Inspired by the pipe structures on the building exterior, I experimented with curved tube-like graphic elements integrated into the layout.
 
@@ -139,9 +127,7 @@ This became one of the most valuable moments of the project. Together with my su
   
 This second version was approved and became the foundation for the next stage.
 
-#
-
-### Expanding into a mobile app
+## Expanding into a mobile app
 
 After finalizing the website direction, I extended the system into a mobile app concept. The main goal was to create a functional and visually cohesive platform.
 
@@ -153,11 +139,11 @@ After finalizing the website direction, I extended the system into a mobile app 
 - manage profiles
 - stay updated with gallery events
 
-### UX Process
+## UX Process
 
 Before designing screens, I created supporting strategic tools.
 
-#### Value Proposition
+### Value Proposition
 
 ###### *I mapped:*
 
@@ -166,7 +152,7 @@ Before designing screens, I created supporting strategic tools.
 - opportunities for online sales
 - emotional and practical motivations
   
-#### Flowchart
+### Flowchart
 
 ###### *I designed navigation logic showing how users move between:*
 
@@ -180,7 +166,7 @@ Before designing screens, I created supporting strategic tools.
   
 This helped me organize the app before visual design began.
 
-#### Wireframes
+### Wireframes
 
 The wireframes allowed me to focus on usability first.
 
@@ -193,9 +179,7 @@ The wireframes allowed me to focus on usability first.
   
 This stage helped solve layout decisions before polishing the interface.
 
-#
-
-### Final UI Design
+## Final UI Design
 
 ###### *The final mobile interface continued the established brand language:*
 
@@ -207,9 +191,7 @@ This stage helped solve layout decisions before polishing the interface.
   
 I also created an interactive prototype to simulate real use.
 
-#
-
-### User Testing
+## User Testing
 
 I shared the prototype with friends and close ones to gather feedback.
 
@@ -224,9 +206,7 @@ I shared the prototype with friends and close ones to gather feedback.
   
 This was especially rewarding because it was my first practical attempt at responsive UI design and prototyping.
 
-#
-
-### What I Learned
+## What I Learned
 
 This project became my first real step into UX/UI design. I realized that visual attractiveness alone is never enough. Strong design happens when aesthetics and functionality work together. 
 
@@ -238,22 +218,16 @@ This project became my first real step into UX/UI design. I realized that visual
 - think from the user’s perspective
 - prototype ideas before finalizing them
 
-#
-
-### Final Reflection
+## Final Reflection
 
 Although I still feel naturally closer to branding, posters, and visual identity work, this project expanded my skillset significantly.
 It taught me new tools, new thinking processes, and a more strategic way of designing digital products. Most importantly, it showed me that growth often starts outside your comfort zone.
 
-#
-
-### Tools Used
+## Tools Used
 
 - Figma
-
-#
   
-### Outcome
+## Outcome
 
 ###### *A refreshed visual direction for Galerie Kotelna including:*
 
@@ -263,10 +237,8 @@ It taught me new tools, new thinking processes, and a more strategic way of desi
 - responsive design thinking
 - mobile app concept
 - interactive prototype
-
-#
-
-### Closing Thought
+  
+## Closing Thought
 
 This project was my attempt to give an existing gallery a more contemporary voice ~ while respecting where it came from.
 
