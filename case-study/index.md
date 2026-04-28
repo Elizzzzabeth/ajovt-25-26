@@ -19,7 +19,7 @@ Although Galerie Kotelna has a strong name and active cultural presence, its cur
 
 <div align="center">
   <video width="500" controls autoplay muted loop playsinline>
-    <source src="/case-study/video/web_GK.mp4" type="video/mp4">
+    <source src="case-study/video/web_GK.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -58,8 +58,8 @@ Before designing, I looked at the gallery’s current outputs and asked one cent
 The answer was not only the exhibitions ~ it was the place itself. The name Kotelna references the building’s industrial past. The architecture contains metallic elements, pipe structures, large open rooms, and a raw atmosphere that feels unlike a traditional gallery. This insight shaped the direction of the redesign.
 
 <p align="center">
-  <img src="/case-study/img/galerie_kotelna_exterier.jpeg" width="45%">
-  <img src="/case-study/img/galerie_kotelna_interier.jpeg" width="45%">
+  <img src="case-study/img/galerie_kotelna_exterier.jpeg" width="45%">
+  <img src="case-study/img/galerie_kotelna_interier.jpeg" width="45%">
 </p>
 
 ###### *Instead of creating something generic and polished, I wanted the identity to feel:*
@@ -75,7 +75,7 @@ The answer was not only the exhibitions ~ it was the place itself. The name Kote
 The logo became the first and most important step. My intention was not to replace it completely, but to refine and modernize it.
 
 <p align="center">
-  <img src="/case-study/img/logo_GK.png" width="35%">
+  <img src="case-study/img/logo_GK.png" width="35%">
 </p>
 
 ###### *What I changed:*
@@ -86,8 +86,8 @@ The logo became the first and most important step. My intention was not to repla
 - improved clarity and scalability
 - updated the wordmark typography to feel cleaner and more breathable
 
-  <p align="center">
-  <img src="/case-study/img/logo_redesign_GK.png" width="125%">
+<p align="center">
+  <img src="case-study/img/logo_redesign_GK.png" width="125%">
 </p>
   
 ###### *Result:*
