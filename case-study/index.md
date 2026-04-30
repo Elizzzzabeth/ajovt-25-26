@@ -9,7 +9,7 @@ title: CASE STUDY ~ GALERIE KOTELNA 🖼️
 ###### * Rebranding visual identity, website concept and mobile app design for an art gallery
 
 <p align="center">
-  <img src="introduction_slide.png" width="100%">
+  <img src="img/introduction_slide.png" width="100%">
 </p>
 
 ## Overview
