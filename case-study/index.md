@@ -82,7 +82,7 @@ The logo became the first and most important step. My intention was not to repla
   <img src="img/logo_GK.png" width="35%">
 </p>
 
-<p align="center" style="font-size:13px; color:#200; margin-top:6px;">
+<p align="center" style="font-size:13px; color:#DB0F42; margin-top:6px;">
 Original gallery logo.
 </p>
 
@@ -98,7 +98,7 @@ Original gallery logo.
   <img src="img/logo_redesign_GK.png" width="125%">
 </p>
 
-<p align="center" style="font-size:13px; color:#200; margin-top:6px;">
+<p align="center" style="font-size:13px; color:#DB0F42; margin-top:6px;">
 Redesigned gallery logo.
 </p>
   
