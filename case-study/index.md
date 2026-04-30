@@ -25,7 +25,7 @@ Although Galerie Kotelna has a strong name and active cultural presence, its cur
 </div>
 
 <p align="center">
-Sample of Kotelna gallery landing page.
+###### Sample of Kotelna gallery landing page.
 </p>
 
 The gallery is housed in a former boiler room (“Kotelna”), a raw industrial environment with spacious interiors and recognizable architectural details. However, the existing branding and website did not fully communicate that atmosphere.
