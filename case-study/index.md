@@ -19,8 +19,7 @@ Although Galerie Kotelna has a strong name and active cultural presence, its cur
 
 <div align="center">
   <video width="500" controls autoplay muted loop playsinline>
-    <source src="case-study/video/web_GK.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+    <source src="./case-study/video/web_GK.mp4" type="video/mp4">
   </video>
 </div>
 
