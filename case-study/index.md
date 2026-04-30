@@ -24,7 +24,7 @@ Although Galerie Kotelna has a strong name and active cultural presence, its cur
   </video>
 </div>
 
-<p align="center" style="font-size:13px; color:#200; margin-top:6px;">
+<p align="center" style="font-size:13px; color:#DB0F42; margin-top:6px;">
 Sample of Kotelna gallery landing page.
 </p>
 
