@@ -17,11 +17,16 @@ This project became my first deeper introduction to UX/UI thinking, responsive d
 
 Although Galerie Kotelna has a strong name and active cultural presence, its current visual outputs felt outdated and visually disconnected from the character of the space itself.
 
+
 <div align="center">
   <video width="500" controls autoplay muted loop playsinline>
     <source src="video/web_GK.mp4" type="video/mp4">
   </video>
 </div>
+
+<p align="center">
+Sample of Kotelna gallery landing page.
+</p>
 
 The gallery is housed in a former boiler room (“Kotelna”), a raw industrial environment with spacious interiors and recognizable architectural details. However, the existing branding and website did not fully communicate that atmosphere.
 
