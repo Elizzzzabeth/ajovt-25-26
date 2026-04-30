@@ -24,7 +24,7 @@ Although Galerie Kotelna has a strong name and active cultural presence, its cur
   </video>
 </div>
 
-<p align="center" style="font-size:13px; color:#777; margin-top:6px;">
+<p align="center" style="font-size:13px; color:#200; margin-top:6px;">
 Sample of Kotelna gallery landing page.
 </p>
 
@@ -82,6 +82,10 @@ The logo became the first and most important step. My intention was not to repla
   <img src="img/logo_GK.png" width="35%">
 </p>
 
+<p align="center" style="font-size:13px; color:#200; margin-top:6px;">
+Original gallery logo.
+</p>
+
 ###### *What I changed:*
 
 - simplified the original symbol / brandmark
@@ -92,6 +96,10 @@ The logo became the first and most important step. My intention was not to repla
 
 <p align="center">
   <img src="img/logo_redesign_GK.png" width="125%">
+</p>
+
+<p align="center" style="font-size:13px; color:#200; margin-top:6px;">
+Redesigned gallery logo.
 </p>
   
 ###### *Result:*
