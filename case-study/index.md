@@ -158,7 +158,7 @@ Visually displayed new identity system as a banner for the web.
 The first phase focused on redesigning the homepage / landing page. I wanted the website to immediately feel different from the existing version ~ something visually confident, memorable, and energetic. Inspired by the pipe structures on the building exterior, I experimented with curved tube-like graphic elements integrated into the layout.
 
 <p align="center">
-  <img src="img/first_landing_page_design.png" width="100%">
+  <img src="img/first_ladning_page_design.png" width="100%">
 </p>
 
 <p align="center" style="font-size:13px; color:#DB0F42; margin-top:6px;">
