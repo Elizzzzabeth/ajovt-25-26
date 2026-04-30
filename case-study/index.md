@@ -114,7 +114,7 @@ The new logo keeps continuity with the original identity while feeling fresher, 
 To support the refreshed logo, I created a simple visual system.
 
 <p align="center">
-  <img src="img/design_system1.png" width="55%">
+  <img src="img/design_system1.png" width="85%">
 </p>
 
 <p align="center" style="font-size:13px; color:#DB0F42; margin-top:6px;">
@@ -146,7 +146,7 @@ I selected bold, legible typography with strong hierarchy and contemporary energ
 - digital interfaces
 
 <p align="center">
-  <img src="img/LP_banner.png" width="45%">
+  <img src="img/LP_banner.png" width="100%">
 </p>
 
 <p align="center" style="font-size:13px; color:#DB0F42; margin-top:6px;">
@@ -158,7 +158,7 @@ Visually displayed new identity system as a banner for the web.
 The first phase focused on redesigning the homepage / landing page. I wanted the website to immediately feel different from the existing version ~ something visually confident, memorable, and energetic. Inspired by the pipe structures on the building exterior, I experimented with curved tube-like graphic elements integrated into the layout.
 
 <p align="center">
-  <img src="img/first_landing_page_design.png" width="45%">
+  <img src="img/first_landing_page_design.png" width="100%">
 </p>
 
 <p align="center" style="font-size:13px; color:#DB0F42; margin-top:6px;">
@@ -189,7 +189,7 @@ This became one of the most valuable moments of the project. Together with my su
 - simplified navigation
 
 <p align="center">
-  <img src="img/second_landing_page_design.png" width="45%">
+  <img src="img/second_landing_page_design.png" width="100%">
 </p>
 
 <p align="center" style="font-size:13px; color:#DB0F42; margin-top:6px;">
@@ -225,7 +225,7 @@ After finalizing the website direction, I extended the system into a mobile app 
 The design system was kept from the previous design so it would stay visually connected to the earlier concept and create a consistent, cohesive look across different media and outputs.
 
 <p align="center">
-  <img src="img/design_system2.png" width="55%">
+  <img src="img/design_system2.png" width="85%">
 </p>
 
 <p align="center" style="font-size:13px; color:#DB0F42; margin-top:6px;">
@@ -239,7 +239,7 @@ Before designing screens, I created supporting strategic tools.
 ### Value Proposition
 
 <p align="center">
-  <img src="img/value_preposition.png" width="45%">
+  <img src="img/value_preposition.png" width="100%">
 </p>
 
 ###### *I mapped:*
@@ -252,7 +252,7 @@ Before designing screens, I created supporting strategic tools.
 ### Flowchart
 
 <p align="center">
-  <img src="img/flowchart.png" width="65%">
+  <img src="img/flowchart.png" width="100%">
 </p>
 
 ###### *I designed navigation logic showing how users move between:*
@@ -287,7 +287,7 @@ This stage helped solve layout decisions before polishing the interface.
 ## Final UI Design
 
 <p align="center">
-  <img src="img/app_design.png" width="55%">
+  <img src="img/app_design.png" width="100%">
 </p>
 
 ###### *The final mobile interface continued the established brand language:*
