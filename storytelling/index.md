@@ -7,7 +7,7 @@ title: STORYTELLING 💬
 
 # STORYTELLING 💬
 
-###### * Hello, here's ELi! 😇 Today I would like to tell you a little story about fonts:
+###### * Hello, here's Eli! 😇 Today I would like to tell you a little story about fonts:
 
 ![Introductory slide](img/FONTS.001.jpeg)
 
